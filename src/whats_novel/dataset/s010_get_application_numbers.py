@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Robert Bosch GmbH. All rights reserved.
+# SPDX-License-Identifier: MIT
+
 import json
 from pathlib import Path
 import re

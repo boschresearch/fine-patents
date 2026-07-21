@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Robert Bosch GmbH. All rights reserved.
+# SPDX-License-Identifier: MIT
+
 import asyncio
 from collections import Counter
 from typing import Iterable, Literal, TypeVar

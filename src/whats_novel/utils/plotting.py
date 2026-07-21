@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Robert Bosch GmbH. All rights reserved.
+# SPDX-License-Identifier: MIT
+
 # region latex template
 # LATEX snippet to get font sizes
 
