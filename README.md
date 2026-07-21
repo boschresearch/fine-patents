@@ -25,7 +25,11 @@
 
 ### Unpack data
 
+The dataset archive is split into ~45 MB parts to stay within GitHub's file-size
+limit. Concatenate the parts and extract:
+
 ```
+cat data/packaged.tar.gz.part*.bin > data/packaged.tar.gz
 tar xvzf data/packaged.tar.gz
 ```
 

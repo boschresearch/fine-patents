@@ -1,6 +1,8 @@
 _tmp
 .vscode
-data/
+data/*
+# Keep the split dataset archive parts under version control
+!data/packaged.tar.gz.part*.bin
 
 
 # Python-generated files
